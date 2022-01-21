@@ -33,7 +33,8 @@ Once you are done with setting up project, you should start with main screen.
 
 ![Screenshot 2022-01-21 at 17 34 22](https://user-images.githubusercontent.com/56973272/150564731-dcb0aa7d-2465-44cd-854c-6426d93a5110.png)
 
-*As api provides single player page only for **Dendi**, only for him it should be able to open details page, rest should lead to error*
+*Create single page only for **Dendi**, rest should lead to error*
+
 - As a User I want to be able to click on Dendi and it should lead me to details page
 - As a user I want to be able to **go back** to previous page
 - If I click on any other player except Dendi, I should get error
