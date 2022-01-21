@@ -41,7 +41,7 @@ Once you are done with setting up project, you should start with main screen.
 
 ### **Player creation**
 
-*At this page I should be able to create new player with all necesary fields(name, country and country flag, Photo, nickname and totalEarning, put some random number). For purposes of this assingment and simplicity, create yourself as a PRO player and just add simple inputs where user can enter info to create player. You dont need to send actual request to contentful since contentful API is read only, writing logic *
+*At this page I should be able to create new player with all necesary fields(name, country and country flag, Photo, nickname and totalEarning, put some random number). For purposes of this assingment and simplicity, create yourself as a PRO player and just add simple inputs where user can enter info to create player. You dont need to send actual request to contentful since contentful API is read only, writing logic*
 
 - As a User I want to be able to enter all required data for a player
 - As a User I want to be able to clikc **Create** button at the bottom of the page to create mocked user(this will just console log imaginary request)
