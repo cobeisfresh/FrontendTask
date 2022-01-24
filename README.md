@@ -16,13 +16,6 @@ I would advice to read everything first to get the idea what needs to be done an
 First step is to setup the project and arhitecture, using CRA or anything to bootstrap is **forbiden**, create a webpack (or other desired tool) configuration from scratch.
 
 Once you are done with setting up project, you should start with main screen. 
-### **necessary info**
-- CONTENTFUL_ACCESS_TOKEN: wO9AhZ3Ig3-aFGAJ3SEj1vtKJ6DuYhvnwDHTJfsQX5w
-- CONTENTFUL_ENVIRONMENT: master
-- CONTENTFUL_SPACE_ID: ojpqlra32uom
-
-To access graphi use following url:
-*https://graphql.contentful.com/content/v1/spaces/[YOUR_SPACE_ID]/explore?access_token=[YOUR_ACCESS_TOKEN]*
 
 ### **Main screen**  
 
