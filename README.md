@@ -10,6 +10,7 @@ We will provide you rough concept and an idea what app should do, rest is up to 
 Once you create a repository, please make sure to commit in itterations with meaningful commit messages, not all at once.      
 As you are developing, mockup designs are provided, theres no need to follow actual colors, spacings etc.. those stuff are irelevant, be creative and do it as you want, just make sure you are consistent.
 I would advice to read everything first to get the idea what needs to be done and then dive in.   
+All necessary info such as **contentful_access_token** and **space_id** will be sent on email.  
 #### Good luck
 
 
