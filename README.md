@@ -22,7 +22,7 @@ Once you are done with setting up project, you should start with main screen.
 - CONTENTFUL_SPACE_ID: ojpqlra32uom
 
 To access graphi use following url:
-*https://graphql.contentful.com/content/v1/spaces/[YOUR_SPACE_ID]/explore?access_token=[YOUR_ACCESS_TOKEN*
+*https://graphql.contentful.com/content/v1/spaces/[YOUR_SPACE_ID]/explore?access_token=[YOUR_ACCESS_TOKEN]*
 
 ### **Main screen**  
 
