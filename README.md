@@ -7,13 +7,13 @@
 3. Last step is to have short call with HR to finilize process.
 
 We will provide you rough concept and an idea what app should do, rest is up to you. Covering edge cases is not MUST but its a bonus.   
-Once you create a repository, please make sure to commit in itterations, not all at once.   
+Once you create a repository, please make sure to commit in itterations with meaningful commit messages, not all at once.      
 As you are developing, mockup designs are provided, theres no need to follow actual colors, spacings etc.. those stuff are irelevant, be creative and do it as you want, just make sure you are consistent.
 I would advice to read everything first to get the idea what needs to be done and then dive in.   
 #### Good luck
 
 
-First step is to setup the project and arhitecture, using CRA or anything to bootstrap is forbiden, please make it from scratch.
+First step is to setup the project and arhitecture, using CRA or anything to bootstrap is **forbiden**, create a webpack (or other desired tool) configuration from scratch.
 
 Once you are done with setting up project, you should start with main screen. 
 
